@@ -113,14 +113,14 @@ global.wibb = `${wktuwib}`
 global.nameown1= 'Han'
 global.nameown2 = 'Ray'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
+global.Linkgc = 'https://chat.whatsapp.com/CZlamemhpn06a5sW063xOg'
 global.lynk = 'https://lynk.id/'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/'
 global.sgh = 'https://github.com/RyhnXD' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/CZlamemhpn06a5sW063xOg' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://nhentai.com'
 
